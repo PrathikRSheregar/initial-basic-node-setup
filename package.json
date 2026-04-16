@@ -1,0 +1,17 @@
+{
+  "name": "node_basic_setup",
+  "version": "1.0.0",
+  "description": "Basic setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prathik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "http-status-code": "^2.1.0",
+    "winston": "^3.19.0"
+  }
+}
